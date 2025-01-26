@@ -15,11 +15,11 @@
 ## 목차
 [1. 주제선정 및 배경](https://github.com/spacenyi/1st?tab=readme-ov-file#%EC%A3%BC%EC%A0%9C%EC%84%A0%EC%A0%95-%EB%B0%8F-%EB%B0%B0%EA%B2%BD)<br>
 [2. 목적 및 필요성](https://github.com/spacenyi/1st?tab=readme-ov-file#2-목적-및-필요성)<br>
-[3. Gantt Chart]{https://www.naver.com)<br>
-[4. 개발환경]()<br>
-[5. 작업분할구조도]()<br>
-[6. 웹구현시연]()<br>\\
-[7. 연구 한계 및 차후 계발 방향]()<br>
+[3. Gantt Chart]{https://github.com/spacenyi/1st?tab=readme-ov-file#3-gantt-chart)<br>
+[4. 개발환경](https://github.com/spacenyi/1st?tab=readme-ov-file#4-개발환경)<br>
+[5. 작업분할구조도](https://github.com/spacenyi/1st?tab=readme-ov-file#5-작업분할구조도)<br>
+[6. 웹구현시연](https://github.com/spacenyi/1st?tab=readme-ov-file#6-웹구현시연)<br>
+[7. 연구 한계 및 차후 계발 방향](https://github.com/spacenyi/1st?tab=readme-ov-file#7-연구-한계-및-차후-계발-방향)<br>
 
 ## 주제선정 및 배경
 ![3_주세선정 및 배경](https://github.com/user-attachments/assets/ecd9bcf7-fe0a-4fe0-9075-da3f875f48c4)
@@ -44,4 +44,4 @@
 ## 7. 연구 한계 및 차후 계발 방향
 ![12_차후계발방향](https://github.com/user-attachments/assets/ede6829c-ab61-4245-8d93-28d2a7214ab5)
 
-![13_QnA(https://github.com/user-attachments/assets/549f36f3-d9ae-48e3-9cce-1d1f9872aee1)
+![13_QnA](https://github.com/user-attachments/assets/549f36f3-d9ae-48e3-9cce-1d1f9872aee1)
