@@ -24,8 +24,6 @@
 </div>
 
 
-![0_main](https://github.com/user-attachments/assets/c3507405-7099-4b14-85e6-5b06ccc927c5)
-
 ## 목차
 [1. 주제선정 및 배경](https://github.com/spacenyi/1st?tab=readme-ov-file#%EC%A3%BC%EC%A0%9C%EC%84%A0%EC%A0%95-%EB%B0%8F-%EB%B0%B0%EA%B2%BD)<br>
 [2. 목적 및 필요성](https://github.com/spacenyi/1st?tab=readme-ov-file#2-목적-및-필요성)<br>
